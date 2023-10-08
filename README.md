@@ -1,3 +1,3 @@
 ### Hello
 
-I like Rust and Kanako
+I like Rust and Erika Furudo
